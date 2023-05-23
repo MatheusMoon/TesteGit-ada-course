@@ -1,6 +1,6 @@
-# TesteGit-ada-course
+# TesteGit-Ada-Course
 
 ## Salvando modificações no Git
-### Salvando alterações no Git
+### Salvando alterações no Git 2023
 
-* comando git push
+* Comando git push
